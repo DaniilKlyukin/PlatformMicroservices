@@ -4,7 +4,7 @@ This is a training project built to understand the core concepts of microservice
 
 ## Features & Technologies
 
-*   **Framework:** .NET Core / .NET 6 (or your version)
+*   **Framework:** .NET Core / .NET 10
 *   **Services:**
     *   *Platform Service* (for managing software platforms)
     *   *Command Service* (for managing CLI commands related to platforms)
